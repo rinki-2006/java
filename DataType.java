@@ -1,4 +1,4 @@
-public class DataTyep {
+public class DataType {
     public static void main(String[] args){
         byte b = 123;
         short s = 2345;
