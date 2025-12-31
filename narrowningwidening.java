@@ -2,13 +2,12 @@
 //class first{
 //public static void main(String[] args){
 //System.out.println("hello world");
-//}
-//}
+//
 
-import java.sql.SQLOutput;
+
 
 //narrowing
-public class first{
+public class narrowningwidening {
     public static void main(String[] args) {
         byte b = 10;
         int i = 183;
