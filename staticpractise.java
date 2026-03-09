@@ -13,6 +13,7 @@ class student_my{
         rollno = generateroll();
     }
     String getroll(){
+
         return rollno;
     }
 }
@@ -21,6 +22,7 @@ public class staticpractise {
         student_my s1 = new student_my();
         student_my s2 = new student_my();
         student_my s3 = new student_my();
+
         System.out.println(s1.getroll());
         System.out.println(s2.getroll());
         System.out.println(s3.getroll());

@@ -4,6 +4,7 @@ class outer1{
         class inner2{
             int y =20;
             void innerclass(){
+
                 System.out.println(x + " " + y);
             }
         }
