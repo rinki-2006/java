@@ -19,7 +19,7 @@ public class fileinputstream {
 //                }
 //            }while(x!=-1);
 
-            // above same using file loop
+            // above same using while loop
             int x;
             while((x = fis.read())!=-1){
                 System.out.print((char)x);
